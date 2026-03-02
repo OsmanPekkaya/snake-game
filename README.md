@@ -16,3 +16,10 @@ Just open `index.html` in your browser.
 2. Repo **Settings** → **Pages**
 3. Source: **Deploy from a branch**
 4. Branch: `main`, Folder: `/ (root)`
+
+# Web Snake Game
+
+## 🎮 Live Demo
+https://OsmanPekkaya.github.io/snake-game/
+
+Minimal Snake game made with HTML Canvas.
